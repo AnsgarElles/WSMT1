@@ -1,4 +1,4 @@
-#Fragenkatalog WSMT 1 – Kunststoffe Grundlagen 
+# Fragenkatalog WSMT 1 – Kunststoffe Grundlagen 
 ###•	Welche Arten von Kunststofftypen gibt es? Wie unterschieden Sie sich in Ihrer grundsätzlichen chemischen Struktur?
 Thermoplaste (unvernetzt)
 Elastomere (schwach vernetzt, auf 100-1000 Bausteine eine Vernetzung)
